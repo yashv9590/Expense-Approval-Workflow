@@ -58,6 +58,10 @@ Expense requests handled over email are hard to track. There is no single record
 <img src="screenshots/Input_request_email_approved.png" width="600" alt="Approval email">
 <img src="screenshots/Input_request_email_rejected.png" width="600" alt="Rejection email">
 
+### Cognitive Form
+
+<img src="screenshots/Form.png" width="600" alt="Rejection email">
+
 
 
 ## Tracker
